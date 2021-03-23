@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730466173047",
+    "project_id": "speechtotext-ca581",
+    "storage_bucket": "speechtotext-ca581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730466173047:android:de9848d53643f2073ac672",
+        "android_client_info": {
+          "package_name": "com.example.speechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730466173047-ekvmeip6fh6h2rnmbkim93l9ig3sd9po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuskQcZYwnZNnsep3HRqSDMV_vat3RtpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730466173047-ekvmeip6fh6h2rnmbkim93l9ig3sd9po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
