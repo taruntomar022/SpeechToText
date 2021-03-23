@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SpeechtoText</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="search">search</string>
+    <string name="speech_to_text">Speech To Text</string>
+    <string name="MY_API_KEY">AIzaSyAjMCRSyYyi6YFUFu4R4E86NkmfqQarXj0</string>
+    <string name="text_will_apper_here">Text will apper here</string>
+    <string name="result_will_be_here">result will be here</string>
+</resources>
